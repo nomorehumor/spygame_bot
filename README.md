@@ -1,6 +1,6 @@
 # spygame_bot
 This is my first ever project in Python, which, I've written while studying this wonderful PL. 
-It is absolutely disguisting written, without any OOP principles and with hundred of 'global' keywords. Maybe someday I will re-write this mistake,
+It is absolutely disgusting written, without any OOP principles and with hundred of 'global' keywords. Maybe someday I will re-write this mistake,
 but for now its uploaded to my repository for certain purpose: each time I'll think I'm writting awful code, I'll return here. Maybe it is not so awful for first ever project,
 but whatever. Hope nobody will see it. In case you're reading this because you were inspecting my profile, better check out my other projects, that I'm currently writing. It's better for your mental health. 
 
