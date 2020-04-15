@@ -10,7 +10,7 @@ But in case your're still here and you are OK with my horrible English, I will i
 Have you ever heard of it? You probably had. This game is good for companies of 5-6 people (more is better, but 10+ will make this game very slow and boring)
 One person comes up with a word. Then everybody closes eyes he/she says the word to everyone except one (or more, for big parties) person. This one person is the spy. Everybody except him doesn't know who is the spy (spies also don't know each other).
 The goal of spy is to get known the word and the goal of all other people is to find out, who is the spy. Each person (in circle order) asks anybody one yes/no question. When somebody comes up with idea, who is the spy, people vote. If everybody is agreed with the choose, the person is finally chosen. 
-If it's actual spy, he has 10 seconds to say the word or he has lost. If the person isn't the spy, people lose.
+If it's actual spy, he/she has 10 seconds to say the word or he/she has lost. If the person isn't the spy, people lose.
 
 This app is made to send everybody the word, without need to close the eyes.
 
