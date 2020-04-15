@@ -14,4 +14,4 @@ If it's actual spy, he has 10 seconds to say the word or he has lost. If the per
 
 This app is made to send everybody the word, without need to close the eyes.
 
-That's it,
+That's it.
